@@ -1,0 +1,7 @@
+Importance of the project: one important ability of corporate software is the ability to communicate with staff. An internal messaging system is crucial part of the software. 
+
+Topics to cover:
+->Qt networking module
+->Creating an instant messaging server
+->Creating an instant messaging client
+
